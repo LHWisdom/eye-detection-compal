@@ -58,6 +58,7 @@ public:
     void display();
 };
 
+
 int employee::employeenum = 1000;
 employee::employee(){
     char namestr[20];
